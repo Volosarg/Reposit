@@ -1,0 +1,6 @@
+c:\users\volosarg\documents\visual studio 2017\Projects\FindSummands\FindSummands\bin\Debug\FindSummands.exe.config
+c:\users\volosarg\documents\visual studio 2017\Projects\FindSummands\FindSummands\bin\Debug\FindSummands.exe
+c:\users\volosarg\documents\visual studio 2017\Projects\FindSummands\FindSummands\bin\Debug\FindSummands.pdb
+c:\users\volosarg\documents\visual studio 2017\Projects\FindSummands\FindSummands\obj\Debug\FindSummands.csprojResolveAssemblyReference.cache
+c:\users\volosarg\documents\visual studio 2017\Projects\FindSummands\FindSummands\obj\Debug\FindSummands.exe
+c:\users\volosarg\documents\visual studio 2017\Projects\FindSummands\FindSummands\obj\Debug\FindSummands.pdb

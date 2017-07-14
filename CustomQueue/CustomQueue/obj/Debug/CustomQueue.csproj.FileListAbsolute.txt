@@ -1,0 +1,6 @@
+c:\users\volosarg\documents\visual studio 2017\Projects\CustomQueue\CustomQueue\bin\Debug\CustomQueue.exe.config
+c:\users\volosarg\documents\visual studio 2017\Projects\CustomQueue\CustomQueue\bin\Debug\CustomQueue.exe
+c:\users\volosarg\documents\visual studio 2017\Projects\CustomQueue\CustomQueue\bin\Debug\CustomQueue.pdb
+c:\users\volosarg\documents\visual studio 2017\Projects\CustomQueue\CustomQueue\obj\Debug\CustomQueue.csprojResolveAssemblyReference.cache
+c:\users\volosarg\documents\visual studio 2017\Projects\CustomQueue\CustomQueue\obj\Debug\CustomQueue.exe
+c:\users\volosarg\documents\visual studio 2017\Projects\CustomQueue\CustomQueue\obj\Debug\CustomQueue.pdb
